@@ -1,8 +1,8 @@
 # Software-complexity-predictor
 
-Software complexity assessment (SCA) module predicts software complexity (SC) of the user requirements specification (URS) documents of model car. URS document is a MS word document with goal of the project, functional requirements and non functional requirements. URS document is prepared at the beginning of the project. SCA considers functional requirements of the model car and predicts the software complexity.
+Software complexity Predictor (SCP) module predicts software complexity (SC) of the user requirements specification (URS) documents of model car. URS document is a MS word document with goal of the project, functional requirements and non functional requirements. URS document is prepared at the beginning of the project. SCP considers functional requirements of the model car and predicts the software complexity.
 
-Software Complexity assessment module software code is done in 3 steps.
+Software Complexity Prediction module software code is done in 3 steps.
   1. To prepare dataset to train model for prediction
   2. Training the model using dataset from previous step.
   3. predicting the complexity of new URS document from the trained model
